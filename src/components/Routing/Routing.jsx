@@ -7,14 +7,11 @@ const Routing = () => {
     <Link to='counter'>
         <button className='btn btn-outline-dark'>counter</button>
     </Link>
-    <Link to='todoapp'>
-        <button className='btn btn-outline-dark'>todo app</button>
-    </Link>
     <Link to='bankaccount'>
         <button className='btn btn-outline-dark'>bank account</button>
     </Link>
-    <Link to='quizapp'>
-        <button className='btn btn-outline-dark'>quiz app</button>
+    <Link to='todoapp'>
+        <button className='btn btn-outline-dark'>todo app</button>
     </Link>
     </div>
   )
