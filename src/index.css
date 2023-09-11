@@ -1,0 +1,24 @@
+body {
+  height: 100vh;
+}
+
+*{
+  font-family: sans-serif;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.nav-bar{
+  height: 100px;
+  background-color: #F0F0F0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+}
+
+.nav-bar h1{
+  font-size: 30px;
+  
+}
